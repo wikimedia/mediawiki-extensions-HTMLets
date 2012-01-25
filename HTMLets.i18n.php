@@ -104,7 +104,7 @@ $messages['cs'] = array(
  * @author Raimond Spekking
  */
 $messages['de'] = array(
-	'htmlets-desc' => 'Ergänzt das <code>&lt;htmlet&gt;</code>-Tag zum Einfügen von HTML-Schnipseln',
+	'htmlets-desc' => 'Ergänzt das Tag <code>&lt;htmlet&gt;</code> zum Einfügen von HTML-Schnipseln',
 	'htmlets-filenotfound' => 'Die Datei $1 mit dem HTML-Code konnte nicht gefunden werden',
 	'htmlets-loadfailed' => 'Die Datei $1 mit dem HTML-Code konnte nicht geladen werden',
 );
