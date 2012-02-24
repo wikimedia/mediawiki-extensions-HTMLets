@@ -133,10 +133,13 @@ $messages['eo'] = array(
 );
 
 /** Spanish (Español)
+ * @author Armando-Martin
  * @author Sanbec
  */
 $messages['es'] = array(
 	'htmlets-desc' => 'Permite incorporar fragmentos de HTML desde archivos por medio de la etiqueta <code>&lt;htmlet&gt;</code>',
+	'htmlets-filenotfound' => 'No se puede encontrar el archivo HTML $1',
+	'htmlets-loadfailed' => 'Error al cargar el archivo HTML $1',
 );
 
 /** Basque (Euskara)
