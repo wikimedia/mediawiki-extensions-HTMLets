@@ -496,6 +496,13 @@ $messages['vi'] = array(
 	'htmlets-desc' => 'Cho phép bạn nhúng những đoạn HTML từ tập tin dùng thẻ <code>&lt;htmlet&gt;</code>',
 );
 
+/** Yiddish (ייִדיש)
+ * @author פוילישער
+ */
+$messages['yi'] = array(
+	'htmlets-filenotfound' => 'קען נישט טרעפֿן HTML טעקע $1',
+);
+
 /** Cantonese (粵語) */
 $messages['yue'] = array(
 	'htmlets-desc' => '令你可以用<code>&lt;htmlet&gt;</code>標籤響檔案度用HTML插件',
