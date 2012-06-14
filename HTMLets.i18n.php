@@ -38,7 +38,7 @@ $messages['arz'] = array(
 	'htmlets-desc' => 'يسمح لك باستخدام صيغ HTML من الملفات باستخدام وسم <code>&lt;htmlet&gt;</code>',
 );
 
-/** Asturian (Asturianu)
+/** Asturian (asturianu)
  * @author Xuacu
  */
 $messages['ast'] = array(
@@ -64,7 +64,7 @@ $messages['be-tarask'] = array(
 	'htmlets-loadfailed' => 'Немагчыма загрузіць HTML-файл $1',
 );
 
-/** Breton (Brezhoneg)
+/** Breton (brezhoneg)
  * @author Fulup
  */
 $messages['br'] = array(
@@ -73,7 +73,7 @@ $messages['br'] = array(
 	'htmlets-loadfailed' => "N'eus ket bet gallet kargañ ar restr HTML $1",
 );
 
-/** Bosnian (Bosanski)
+/** Bosnian (bosanski)
  * @author CERminator
  */
 $messages['bs'] = array(
@@ -82,7 +82,7 @@ $messages['bs'] = array(
 	'htmlets-loadfailed' => 'Nije uspjelo učitavanje HTML datoteke $1',
 );
 
-/** Catalan (Català)
+/** Catalan (català)
  * @author Paucabot
  * @author Toniher
  */
@@ -92,7 +92,7 @@ $messages['ca'] = array(
 	'htmlets-loadfailed' => "No s'ha pogut carregar el fitxer HTML $1",
 );
 
-/** Czech (Česky)
+/** Czech (česky)
  * @author Mormegil
  */
 $messages['cs'] = array(
@@ -132,7 +132,7 @@ $messages['eo'] = array(
 	'htmlets-desc' => 'Permesas al vi enigi HTML-kodpecojn de dosieroj uzante la etikedon <code>&lt;htmlet&gt;</code>',
 );
 
-/** Spanish (Español)
+/** Spanish (español)
  * @author Armando-Martin
  * @author Sanbec
  */
@@ -142,21 +142,21 @@ $messages['es'] = array(
 	'htmlets-loadfailed' => 'Error al cargar el archivo HTML $1',
 );
 
-/** Basque (Euskara)
+/** Basque (euskara)
  * @author Theklan
  */
 $messages['eu'] = array(
 	'htmlets-desc' => '<code>&lt;htmlet&gt;</code> etiketa erabiliz fitxategietako HTML zatiak lerroen artean sartzea baimentzen du',
 );
 
-/** Finnish (Suomi)
+/** Finnish (suomi)
  * @author Crt
  */
 $messages['fi'] = array(
 	'htmlets-desc' => 'Mahdollistaa HTML-katkelmien lisäämisen tiedostosta käyttäen elementtiä <code>&lt;htmlet&gt;</code>.',
 );
 
-/** French (Français)
+/** French (français)
  * @author Grondin
  * @author Peter17
  * @author Verdy p
@@ -167,7 +167,7 @@ $messages['fr'] = array(
 	'htmlets-loadfailed' => 'Impossible de charger le fichier HTML $1',
 );
 
-/** Franco-Provençal (Arpetan)
+/** Franco-Provençal (arpetan)
  * @author ChrisPtDe
  */
 $messages['frp'] = array(
@@ -226,14 +226,14 @@ $messages['hsb'] = array(
 	'htmlets-loadfailed' => 'HTML-dataja $1 njeda so začitać',
 );
 
-/** Hungarian (Magyar)
+/** Hungarian (magyar)
  * @author Glanthor Reviol
  */
 $messages['hu'] = array(
 	'htmlets-desc' => 'Lehetővé teszi HTML használatát oldalon belül a <code>&lt;htmlet&gt;</code> tag segítségével',
 );
 
-/** Interlingua (Interlingua)
+/** Interlingua (interlingua)
  * @author McDutchie
  */
 $messages['ia'] = array(
@@ -252,7 +252,7 @@ $messages['id'] = array(
 	'htmlets-loadfailed' => 'Gagal memuat file HTML $1',
 );
 
-/** Italian (Italiano)
+/** Italian (italiano)
  * @author Beta16
  * @author Uno
  */
@@ -300,7 +300,7 @@ $messages['lb'] = array(
 	'htmlets-loadfailed' => 'Den HTML-Fichier $1 konnt net geluede ginn',
 );
 
-/** Macedonian (Македонски)
+/** Macedonian (македонски)
  * @author Bjankuloski06
  */
 $messages['mk'] = array(
@@ -344,21 +344,21 @@ $messages['nl'] = array(
 	'htmlets-loadfailed' => 'Fout bij het laden van HTML-bestand $1',
 );
 
-/** Norwegian Nynorsk (‪Norsk (nynorsk)‬)
+/** Norwegian Nynorsk (‪norsk (nynorsk)‬)
  * @author Harald Khan
  */
 $messages['nn'] = array(
 	'htmlets-desc' => 'Lèt deg nytta HTML-fragment frå filer ved bruk av merket <code>&lt;htmlet&gt;</code>',
 );
 
-/** Occitan (Occitan)
+/** Occitan (occitan)
  * @author Cedric31
  */
 $messages['oc'] = array(
 	'htmlets-desc' => 'Vos daissa lo ligam HTML abrejat en linha dempuèi los fichièrs utilizant la balisa <code>&lt;htmlet&gt;</code>',
 );
 
-/** Polish (Polski)
+/** Polish (polski)
  * @author Sp5uhe
  */
 $messages['pl'] = array(
@@ -377,7 +377,7 @@ $messages['pms'] = array(
 	'htmlets-loadfailed' => "Falì a carié l'archivi HTML $1",
 );
 
-/** Portuguese (Português)
+/** Portuguese (português)
  * @author Hamilton Abreu
  * @author Malafaya
  */
@@ -387,7 +387,7 @@ $messages['pt'] = array(
 	'htmlets-loadfailed' => 'Erro ao carregar o ficheiro HTML $1',
 );
 
-/** Brazilian Portuguese (Português do Brasil)
+/** Brazilian Portuguese (português do Brasil)
  * @author Eduardo.mps
  * @author Giro720
  */
@@ -397,14 +397,14 @@ $messages['pt-br'] = array(
 	'htmlets-loadfailed' => 'Erro ao carregar o arquivo HTML $1',
 );
 
-/** Tarandíne (Tarandíne)
+/** tarandíne (tarandíne)
  * @author Joetaras
  */
 $messages['roa-tara'] = array(
 	'htmlets-desc' => "Fa ausà le snippets inline de l'HTML da le file usanne 'u tag <code>&lt;htmlet&gt;</code>",
 );
 
-/** Russian (Русский)
+/** Russian (русский)
  * @author Александр Сигачёв
  */
 $messages['ru'] = array(
@@ -413,14 +413,14 @@ $messages['ru'] = array(
 	'htmlets-loadfailed' => 'Не удалось загрузить HTML-файл $1',
 );
 
-/** Slovak (Slovenčina)
+/** Slovak (slovenčina)
  * @author Helix84
  */
 $messages['sk'] = array(
 	'htmlets-desc' => 'Umožňuje vkladať kúsky HTML kódu zo súborov pomocou značky <code>&lt;htmlet&gt;</code>',
 );
 
-/** Slovenian (Slovenščina)
+/** Slovenian (slovenščina)
  * @author Dbc334
  */
 $messages['sl'] = array(
@@ -429,14 +429,14 @@ $messages['sl'] = array(
 	'htmlets-loadfailed' => 'Nalaganje datoteke HTML $1 je spodletelo',
 );
 
-/** Serbian (Cyrillic script) (‪Српски (ћирилица)‬)
+/** Serbian (Cyrillic script) (‪српски (ћирилица)‬)
  * @author Михајло Анђелковић
  */
 $messages['sr-ec'] = array(
 	'htmlets-desc' => 'Омогућава убацивање HTML делова из фајлова, коришћењем <code>&lt;htmlet&gt;</code> тага',
 );
 
-/** Serbian (Latin script) (‪Srpski (latinica)‬) */
+/** Serbian (Latin script) (‪srpski (latinica)‬) */
 $messages['sr-el'] = array(
 	'htmlets-desc' => 'Omogućava ubacivanje HTML delova iz fajlova, korišćenjem <code>&lt;htmlet&gt;</code> taga',
 );
@@ -448,7 +448,7 @@ $messages['stq'] = array(
 	'htmlets-desc' => 'Benutset dät <code>&lt;htmlet&gt;</code>-Tag toun Ienföigjen fon HTML-Snipsele',
 );
 
-/** Swedish (Svenska)
+/** Swedish (svenska)
  * @author Lejonel
  * @author M.M.S.
  */
@@ -479,7 +479,7 @@ $messages['tr'] = array(
 	'htmlets-desc' => '<code>&lt;htmlet&gt;</code> etiketini kullanarak dosyalardan alınan HTML parçalarını hizalamanızı sağlar',
 );
 
-/** Ukrainian (Українська)
+/** Ukrainian (українська)
  * @author Prima klasy4na
  * @author Тест
  */
@@ -508,7 +508,7 @@ $messages['yue'] = array(
 	'htmlets-desc' => '令你可以用<code>&lt;htmlet&gt;</code>標籤響檔案度用HTML插件',
 );
 
-/** Simplified Chinese (‪中文(简体)‬)
+/** Simplified Chinese (‪中文（简体）‬)
  * @author Hydra
  */
 $messages['zh-hans'] = array(
@@ -517,7 +517,7 @@ $messages['zh-hans'] = array(
 	'htmlets-loadfailed' => '未能加载 HTML 文件 $1',
 );
 
-/** Traditional Chinese (‪中文(繁體)‬)
+/** Traditional Chinese (‪中文（繁體）‬)
  * @author Mark85296341
  */
 $messages['zh-hant'] = array(
