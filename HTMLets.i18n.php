@@ -54,7 +54,7 @@ $messages['ba'] = array(
 	'htmlets-filenotfound' => '$1 HTML-файлын табып булманы',
 );
 
-/** Belarusian (Taraškievica orthography) (‪Беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
  * @author EugeneZelenko
  * @author Wizardist
  */
@@ -109,7 +109,7 @@ $messages['de'] = array(
 	'htmlets-loadfailed' => 'Die Datei $1 mit dem HTML-Code konnte nicht geladen werden',
 );
 
-/** Lower Sorbian (Dolnoserbski)
+/** Lower Sorbian (dolnoserbski)
  * @author Michawiki
  */
 $messages['dsb'] = array(
@@ -175,7 +175,7 @@ $messages['frp'] = array(
 	'htmlets-loadfailed' => 'Empossiblo de chargiér lo fichiér HTML $1',
 );
 
-/** Galician (Galego)
+/** Galician (galego)
  * @author Toliño
  */
 $messages['gl'] = array(
@@ -217,7 +217,7 @@ $messages['hil'] = array(
 	'htmlets-desc' => 'Nagahatag sa imo inline HTML snippets halin sa mga file nga ang ginagamit <code>&lt;htmlet&gt;</code> tag',
 );
 
-/** Upper Sorbian (Hornjoserbsce)
+/** Upper Sorbian (hornjoserbsce)
  * @author Michawiki
  */
 $messages['hsb'] = array(
