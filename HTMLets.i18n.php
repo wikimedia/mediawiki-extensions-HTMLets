@@ -47,7 +47,7 @@ $messages['ast'] = array(
 	'htmlets-loadfailed' => 'Nun se pudo cargar el ficheru HTML $1',
 );
 
-/** Bashkir (Башҡортса)
+/** Bashkir (башҡортса)
  * @author Roustammr
  */
 $messages['ba'] = array(
@@ -325,8 +325,7 @@ $messages['ms'] = array(
 	'htmlets-loadfailed' => 'Fail HTML $1 tidak dapat dimuatkan',
 );
 
-/** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
- * @author Jon Harald Søby
+/** Norwegian Bokmål (‪norsk (bokmål)‬)
  * @author Nghtwlkr
  */
 $messages['nb'] = array(
