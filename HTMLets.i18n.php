@@ -228,9 +228,12 @@ $messages['hsb'] = array(
 
 /** Hungarian (magyar)
  * @author Glanthor Reviol
+ * @author TK-999
  */
 $messages['hu'] = array(
 	'htmlets-desc' => 'Lehetővé teszi HTML használatát oldalon belül a <code>&lt;htmlet&gt;</code> tag segítségével',
+	'htmlets-filenotfound' => 'Nem található a(z) $1 HTML-fájl',
+	'htmlets-loadfailed' => 'Nem sikerült betölteni a(z) $1 HTML-fájlt',
 );
 
 /** Interlingua (interlingua)
