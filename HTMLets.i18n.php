@@ -54,7 +54,7 @@ $messages['ba'] = array(
 	'htmlets-filenotfound' => '$1 HTML-файлын табып булманы',
 );
 
-/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (беларуская (тарашкевіца)‎)
  * @author EugeneZelenko
  * @author Wizardist
  */
@@ -328,7 +328,7 @@ $messages['ms'] = array(
 	'htmlets-loadfailed' => 'Fail HTML $1 tidak dapat dimuatkan',
 );
 
-/** Norwegian Bokmål (‪norsk (bokmål)‬)
+/** Norwegian Bokmål (norsk (bokmål)‎)
  * @author Nghtwlkr
  */
 $messages['nb'] = array(
@@ -346,7 +346,7 @@ $messages['nl'] = array(
 	'htmlets-loadfailed' => 'Fout bij het laden van HTML-bestand $1',
 );
 
-/** Norwegian Nynorsk (‪norsk (nynorsk)‬)
+/** Norwegian Nynorsk (norsk (nynorsk)‎)
  * @author Harald Khan
  */
 $messages['nn'] = array(
@@ -431,14 +431,14 @@ $messages['sl'] = array(
 	'htmlets-loadfailed' => 'Nalaganje datoteke HTML $1 je spodletelo',
 );
 
-/** Serbian (Cyrillic script) (‪српски (ћирилица)‬)
+/** Serbian (Cyrillic script) (српски (ћирилица)‎)
  * @author Михајло Анђелковић
  */
 $messages['sr-ec'] = array(
 	'htmlets-desc' => 'Омогућава убацивање HTML делова из фајлова, коришћењем <code>&lt;htmlet&gt;</code> тага',
 );
 
-/** Serbian (Latin script) (‪srpski (latinica)‬) */
+/** Serbian (Latin script) (srpski (latinica)‎) */
 $messages['sr-el'] = array(
 	'htmlets-desc' => 'Omogućava ubacivanje HTML delova iz fajlova, korišćenjem <code>&lt;htmlet&gt;</code> taga',
 );
@@ -510,7 +510,7 @@ $messages['yue'] = array(
 	'htmlets-desc' => '令你可以用<code>&lt;htmlet&gt;</code>標籤響檔案度用HTML插件',
 );
 
-/** Simplified Chinese (‪中文（简体）‬)
+/** Simplified Chinese (中文（简体）‎)
  * @author Hydra
  */
 $messages['zh-hans'] = array(
@@ -519,7 +519,7 @@ $messages['zh-hans'] = array(
 	'htmlets-loadfailed' => '未能加载 HTML 文件 $1',
 );
 
-/** Traditional Chinese (‪中文（繁體）‬)
+/** Traditional Chinese (中文（繁體）‎)
  * @author Mark85296341
  */
 $messages['zh-hant'] = array(
