@@ -438,7 +438,8 @@ $messages['sr-ec'] = array(
 	'htmlets-desc' => 'Омогућава убацивање HTML делова из фајлова, коришћењем <code>&lt;htmlet&gt;</code> тага',
 );
 
-/** Serbian (Latin script) (srpski (latinica)‎) */
+/** Serbian (Latin script) (srpski (latinica)‎)
+ */
 $messages['sr-el'] = array(
 	'htmlets-desc' => 'Omogućava ubacivanje HTML delova iz fajlova, korišćenjem <code>&lt;htmlet&gt;</code> taga',
 );
@@ -505,7 +506,8 @@ $messages['yi'] = array(
 	'htmlets-filenotfound' => 'קען נישט טרעפֿן HTML טעקע $1',
 );
 
-/** Cantonese (粵語) */
+/** Cantonese (粵語)
+ */
 $messages['yue'] = array(
 	'htmlets-desc' => '令你可以用<code>&lt;htmlet&gt;</code>標籤響檔案度用HTML插件',
 );
@@ -527,4 +529,3 @@ $messages['zh-hant'] = array(
 	'htmlets-filenotfound' => '找不到 $1 的 HTML 檔案',
 	'htmlets-loadfailed' => '無法載入 HTML 檔案 $1',
 );
-
