@@ -16,10 +16,11 @@ $messages['en'] = array(
 
 /** Message documentation (Message documentation)
  * @author Purodha
+ * @author Shirayuki
  * @author The Evil IP address
  */
 $messages['qqq'] = array(
-	'htmlets-desc' => '{{desc}}',
+	'htmlets-desc' => '{{desc|name=HTMLets|url=http://www.mediawiki.org/wiki/Extension:HTMLets}}',
 );
 
 /** Arabic (العربية)
