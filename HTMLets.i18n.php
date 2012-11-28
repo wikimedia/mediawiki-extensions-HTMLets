@@ -152,9 +152,12 @@ $messages['eu'] = array(
 
 /** Finnish (suomi)
  * @author Crt
+ * @author Nedergard
  */
 $messages['fi'] = array(
 	'htmlets-desc' => 'Mahdollistaa HTML-katkelmien lisäämisen tiedostosta käyttäen elementtiä <code>&lt;htmlet&gt;</code>.',
+	'htmlets-filenotfound' => 'HTML-tiedostoa $1 ei löytynyt',
+	'htmlets-loadfailed' => 'HTML-tiedoston $1 lataaminen epäonnistui',
 );
 
 /** French (français)
