@@ -95,9 +95,11 @@ $messages['ca'] = array(
 
 /** Czech (česky)
  * @author Mormegil
+ * @author Vks
  */
 $messages['cs'] = array(
 	'htmlets-desc' => 'Umožňuje vkládání kousků HTML ze souborů pomocí značky <code>&lt;htmlet&gt;</code>',
+	'htmlets-loadfailed' => 'Nepodařilo se načíst soubor HTML soubor $1',
 );
 
 /** German (Deutsch)
