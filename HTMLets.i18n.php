@@ -145,6 +145,14 @@ $messages['es'] = array(
 	'htmlets-loadfailed' => 'Error al cargar el archivo HTML $1',
 );
 
+/** Estonian (eesti)
+ * @author Pikne
+ */
+$messages['et'] = array(
+	'htmlets-filenotfound' => 'HMTL-faili $1 ei leitud.',
+	'htmlets-loadfailed' => 'HTML-faili $1 ei õnnestu laadida.',
+);
+
 /** Basque (euskara)
  * @author Theklan
  */
