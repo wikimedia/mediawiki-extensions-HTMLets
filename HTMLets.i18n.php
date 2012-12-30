@@ -429,6 +429,14 @@ $messages['ru'] = array(
 	'htmlets-loadfailed' => 'Не удалось загрузить HTML-файл $1',
 );
 
+/** Sinhala (සිංහල)
+ * @author පසිඳු කාවින්ද
+ */
+$messages['si'] = array(
+	'htmlets-filenotfound' => '$1 HTML ගොනුව සොයාගත නොහැක',
+	'htmlets-loadfailed' => '$1 HTML ගොනුව පැටවීමට අසමත්',
+);
+
 /** Slovak (slovenčina)
  * @author Helix84
  */
