@@ -418,6 +418,8 @@ $messages['pt-br'] = array(
  */
 $messages['roa-tara'] = array(
 	'htmlets-desc' => "Fa ausà le snippets inline de l'HTML da le file usanne 'u tag <code>&lt;htmlet&gt;</code>",
+	'htmlets-filenotfound' => "Non ge se iacchie 'u file HTML $1",
+	'htmlets-loadfailed' => "Caricamende d'u file HTML $1 fallite",
 );
 
 /** Russian (русский)
