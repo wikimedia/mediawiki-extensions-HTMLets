@@ -147,9 +147,10 @@ $messages['es'] = array(
 
 /** Estonian (eesti)
  * @author Pikne
+ * @author Shirayuki
  */
 $messages['et'] = array(
-	'htmlets-filenotfound' => 'HMTL-faili $1 ei leitud.',
+	'htmlets-filenotfound' => 'HTML-faili $1 ei leitud.',
 	'htmlets-loadfailed' => 'HTML-faili $1 ei õnnestu laadida.',
 );
 
