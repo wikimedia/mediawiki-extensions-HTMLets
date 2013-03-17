@@ -21,6 +21,10 @@ $messages['en'] = array(
  */
 $messages['qqq'] = array(
 	'htmlets-desc' => '{{desc|name=HTMLets|url=http://www.mediawiki.org/wiki/Extension:HTMLets}}',
+	'htmlets-filenotfound' => 'Used as error message. Parameters:
+* $1 - HTMLet file name',
+	'htmlets-loadfailed' => 'Used as error message. Parameters:
+* $1 - HTMLet file name',
 );
 
 /** Arabic (العربية)
