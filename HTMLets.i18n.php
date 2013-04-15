@@ -307,7 +307,7 @@ $messages['ko'] = array(
  * @author Purodha
  */
 $messages['ksh'] = array(
-	'htmlets-desc' => 'Määt Schnibbel fun HTML em Wiki müjjelesch övver der <code>&lt;htmlet&gt;</code>-Befäähl.',
+	'htmlets-desc' => 'Määt Schnibbel fun HTML em Wiki möjjelesch övver der <code>&lt;htmlet&gt;</code>-Befäähl.',
 	'htmlets-filenotfound' => 'Mer kunnte de Dattei „$1“ met däm <i lang="en">HTML</i> dren nit fenge.',
 	'htmlets-loadfailed' => 'Mer kunnte de Dattei „$1“ met däm <i lang="en">HTML</i> dren nit laade.',
 );
