@@ -347,7 +347,7 @@ $messages['ms'] = array(
 	'htmlets-loadfailed' => 'Fail HTML $1 tidak dapat dimuatkan',
 );
 
-/** Norwegian Bokmål (norsk (bokmål)‎)
+/** Norwegian Bokmål (norsk bokmål)
  * @author Nghtwlkr
  */
 $messages['nb'] = array(
@@ -365,7 +365,7 @@ $messages['nl'] = array(
 	'htmlets-loadfailed' => 'Fout bij het laden van HTML-bestand $1',
 );
 
-/** Norwegian Nynorsk (norsk (nynorsk)‎)
+/** Norwegian Nynorsk (norsk nynorsk)
  * @author Harald Khan
  */
 $messages['nn'] = array(
