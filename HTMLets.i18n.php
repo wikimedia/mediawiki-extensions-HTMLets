@@ -522,10 +522,13 @@ $messages['uk'] = array(
 );
 
 /** Vietnamese (Tiếng Việt)
+ * @author Tuankiet65
  * @author Vinhtantran
  */
 $messages['vi'] = array(
 	'htmlets-desc' => 'Cho phép bạn nhúng những đoạn HTML từ tập tin dùng thẻ <code>&lt;htmlet&gt;</code>',
+	'htmlets-filenotfound' => 'Không tìm thấy tập tin HTML $1',
+	'htmlets-loadfailed' => 'Không thể mở tập tin HTML $1',
 );
 
 /** Yiddish (ייִדיש)
