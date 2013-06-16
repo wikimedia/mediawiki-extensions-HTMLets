@@ -481,11 +481,14 @@ $messages['stq'] = array(
 );
 
 /** Swedish (svenska)
+ * @author Jopparn
  * @author Lejonel
  * @author M.M.S.
  */
 $messages['sv'] = array(
 	'htmlets-desc' => 'Låter dig infoga HTML-kod från filer med hjälp av taggen <code>&lt;htmlet&gt;</code>',
+	'htmlets-filenotfound' => 'Kan inte hitta HTML-filen $1',
+	'htmlets-loadfailed' => 'Misslyckades att ladda HTML-filen $1',
 );
 
 /** Telugu (తెలుగు)
