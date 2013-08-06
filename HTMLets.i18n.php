@@ -409,13 +409,14 @@ $messages['pt'] = array(
 );
 
 /** Brazilian Portuguese (português do Brasil)
+ * @author Dianakc
  * @author Eduardo.mps
  * @author Giro720
  */
 $messages['pt-br'] = array(
 	'htmlets-desc' => 'Permite-lhe inserir blocos de HTML a partir de arquivos usando a marca <code>&lt;htmlet&gt;</code>',
 	'htmlets-filenotfound' => 'Não foi possível localizar o arquivo HTML $1',
-	'htmlets-loadfailed' => 'Erro ao carregar o arquivo HTML $1',
+	'htmlets-loadfailed' => 'Erro ao enviar arquivo HTML $1',
 );
 
 /** tarandíne (tarandíne)
