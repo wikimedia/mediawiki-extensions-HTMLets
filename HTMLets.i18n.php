@@ -97,7 +97,7 @@ $messages['ca'] = array(
 	'htmlets-loadfailed' => "No s'ha pogut carregar el fitxer HTML $1",
 );
 
-/** Czech (česky)
+/** Czech (čeština)
  * @author Mormegil
  * @author Vks
  */
