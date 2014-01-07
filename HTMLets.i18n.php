@@ -165,6 +165,14 @@ $messages['eu'] = array(
 	'htmlets-desc' => '<code>&lt;htmlet&gt;</code> etiketa erabiliz fitxategietako HTML zatiak lerroen artean sartzea baimentzen du',
 );
 
+/** Persian (فارسی)
+ * @author Armin1392
+ */
+$messages['fa'] = array(
+	'htmlets-filenotfound' => 'پوشهٔ اچ‌تی‌ام‌ال $1 نمی‌تواند پیدا شود.',
+	'htmlets-loadfailed' => 'عدم موفقیت بارگذاری پوشهٔ اچ‌تی‌ام‌ال $1',
+);
+
 /** Finnish (suomi)
  * @author Crt
  * @author Nedergard
