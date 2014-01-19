@@ -169,6 +169,7 @@ $messages['eu'] = array(
  * @author Armin1392
  */
 $messages['fa'] = array(
+	'htmlets-desc' => 'به شما اجازه می‌دهد قطعات اچ‌تی‌ام‌ال را از استفادهٔ پوشه‌های برچسب <code>&lt;htmlet&gt;</code> مرتب کنید',
 	'htmlets-filenotfound' => 'پوشهٔ اچ‌تی‌ام‌ال $1 نمی‌تواند پیدا شود.',
 	'htmlets-loadfailed' => 'عدم موفقیت بارگذاری پوشهٔ اچ‌تی‌ام‌ال $1',
 );
