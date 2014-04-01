@@ -1,0 +1,10 @@
+{
+    "@metadata": {
+        "authors": [
+            "Toliño"
+        ]
+    },
+    "htmlets-desc": "Déixalle introducir liñas de conversa HTML dende ficheiros usando a etiqueta <code>&lt;htmlet&gt;</code>",
+    "htmlets-filenotfound": "Non se pode atopar o ficheiro HTML $1",
+    "htmlets-loadfailed": "Erro ao cargar o ficheiro HTML $1"
+}

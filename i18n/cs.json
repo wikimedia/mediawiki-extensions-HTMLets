@@ -1,0 +1,10 @@
+{
+    "@metadata": {
+        "authors": [
+            "Mormegil",
+            "Vks"
+        ]
+    },
+    "htmlets-desc": "Umožňuje vkládání kousků HTML ze souborů pomocí značky <code>&lt;htmlet&gt;</code>",
+    "htmlets-loadfailed": "Nepodařilo se načíst soubor HTML soubor $1"
+}

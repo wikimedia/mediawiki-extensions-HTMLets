@@ -1,0 +1,9 @@
+{
+    "@metadata": {
+        "authors": [
+            "ChrisPtDe"
+        ]
+    },
+    "htmlets-filenotfound": "Empossiblo de trovar lo fichiér HTML $1",
+    "htmlets-loadfailed": "Empossiblo de chargiér lo fichiér HTML $1"
+}

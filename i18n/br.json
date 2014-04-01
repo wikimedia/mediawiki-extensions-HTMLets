@@ -1,0 +1,10 @@
+{
+    "@metadata": {
+        "authors": [
+            "Fulup"
+        ]
+    },
+    "htmlets-desc": "Talvezout a ra da ensoc'hañ lodennoù HTML adalek restroù a ra gant ar valizenn <code>&lt;htmlet&gt;</code> tag",
+    "htmlets-filenotfound": "N'eus ket bet gallet kavout ar restr HTML $1",
+    "htmlets-loadfailed": "N'eus ket bet gallet kargañ ar restr HTML $1"
+}

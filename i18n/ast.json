@@ -1,0 +1,10 @@
+{
+    "@metadata": {
+        "authors": [
+            "Xuacu"
+        ]
+    },
+    "htmlets-desc": "Te permite inxertar fragmentos de HTML dende ficheros usando la etiqueta <code>&lt;htmlet&gt;</code>",
+    "htmlets-filenotfound": "Nun se pue atopar el ficheru HTML $1",
+    "htmlets-loadfailed": "Nun se pudo cargar el ficheru HTML $1"
+}

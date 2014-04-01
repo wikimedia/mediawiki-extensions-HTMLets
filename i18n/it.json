@@ -1,0 +1,11 @@
+{
+    "@metadata": {
+        "authors": [
+            "Beta16",
+            "Uno"
+        ]
+    },
+    "htmlets-desc": "Permette di includere frammenti di codice HTML da file usando il tag <code>&lt;htmlet&gt;</code>",
+    "htmlets-filenotfound": "Impossibile trovare il file HTML $1",
+    "htmlets-loadfailed": "Impossibile caricare il file HTML $1"
+}

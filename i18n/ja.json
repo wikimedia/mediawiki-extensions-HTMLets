@@ -1,0 +1,11 @@
+{
+    "@metadata": {
+        "authors": [
+            "Fryed-peach",
+            "青子守歌"
+        ]
+    },
+    "htmlets-desc": "<code>&lt;htmlet&gt;</code> タグを使うことでファイルからHTMLの断片をインラインに埋め込むことができる",
+    "htmlets-filenotfound": "HTMLファイル$1が見つかりません",
+    "htmlets-loadfailed": "HTMLファイル$1の読み込みに失敗しました"
+}

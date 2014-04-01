@@ -1,0 +1,12 @@
+{
+    "@metadata": {
+        "authors": [
+            "Grondin",
+            "Peter17",
+            "Verdy p"
+        ]
+    },
+    "htmlets-desc": "Vous permet d’insérer en ligne des extraits de code HTML depuis les fichiers utilisant la balise <code>&lt;htmlet&gt;</code>",
+    "htmlets-filenotfound": "Impossible de trouver le fichier HTML $1",
+    "htmlets-loadfailed": "Impossible de charger le fichier HTML $1"
+}

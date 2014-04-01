@@ -1,0 +1,11 @@
+{
+    "@metadata": {
+        "authors": [
+            "Glanthor Reviol",
+            "TK-999"
+        ]
+    },
+    "htmlets-desc": "Lehetővé teszi HTML használatát oldalon belül a <code>&lt;htmlet&gt;</code> tag segítségével",
+    "htmlets-filenotfound": "Nem található a(z) $1 HTML-fájl",
+    "htmlets-loadfailed": "Nem sikerült betölteni a(z) $1 HTML-fájlt"
+}

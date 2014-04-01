@@ -1,0 +1,10 @@
+{
+    "@metadata": {
+        "authors": [
+            "McDutchie"
+        ]
+    },
+    "htmlets-desc": "Permitte incorporar fragmentos HTML ab files per medio del etiquetta <code>&lt;htmlet&gt;</code>",
+    "htmlets-filenotfound": "Non pote trovar le file HTML $1",
+    "htmlets-loadfailed": "Falleva de cargar le file HTML $1"
+}

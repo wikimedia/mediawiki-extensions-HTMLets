@@ -1,0 +1,11 @@
+{
+    "@metadata": {
+        "authors": [
+            "Les Meloures",
+            "Robby"
+        ]
+    },
+    "htmlets-desc": "Léisst Iech HTML-Schnëppele vu Fichiere mat Hellëf vun der <code>&lt;htmlet&gt;</code> Markéierung asetzen",
+    "htmlets-filenotfound": "Den HTML-Fichier $1 gouf net fonnt",
+    "htmlets-loadfailed": "Den HTML-Fichier $1 konnt net geluede ginn"
+}

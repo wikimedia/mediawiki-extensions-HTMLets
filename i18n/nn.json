@@ -1,0 +1,8 @@
+{
+    "@metadata": {
+        "authors": [
+            "Harald Khan"
+        ]
+    },
+    "htmlets-desc": "Lèt deg nytta HTML-fragment frå filer ved bruk av merket <code>&lt;htmlet&gt;</code>"
+}

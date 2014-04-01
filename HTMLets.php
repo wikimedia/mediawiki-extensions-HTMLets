@@ -26,6 +26,8 @@ $wgExtensionCredits['parserhook'][] = array(
 	'url'            => 'http://mediawiki.org/wiki/Extension:HTMLets',
 	'descriptionmsg' => 'htmlets-desc',
 );
+
+$wgMessagesDirs['HTMLets'] = __DIR__ . '/i18n';
 $wgExtensionMessagesFiles['HTMLets'] =  dirname(__FILE__) . '/HTMLets.i18n.php';
 
 /**

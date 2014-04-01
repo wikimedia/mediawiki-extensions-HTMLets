@@ -1,0 +1,8 @@
+{
+    "@metadata": {
+        "authors": [
+            "Vito Genovese"
+        ]
+    },
+    "htmlets-desc": "<code>&lt;htmlet&gt;</code> etiketini kullanarak dosyalardan alınan HTML parçalarını hizalamanızı sağlar"
+}

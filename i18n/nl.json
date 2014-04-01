@@ -1,0 +1,10 @@
+{
+    "@metadata": {
+        "authors": [
+            "Siebrand"
+        ]
+    },
+    "htmlets-desc": "Voegt de tag <code>&lt;htmlet&gt;</code> toe om HTML snippets uit bestanden te kunnen gebruiken",
+    "htmlets-filenotfound": "Het HTML-bestand $1 is niet gevonden",
+    "htmlets-loadfailed": "Fout bij het laden van HTML-bestand $1"
+}

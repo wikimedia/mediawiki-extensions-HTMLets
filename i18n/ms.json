@@ -1,0 +1,10 @@
+{
+    "@metadata": {
+        "authors": [
+            "Anakmalaysia"
+        ]
+    },
+    "htmlets-desc": "Membolehkan anda menyebariskan coretan-coretan HTML daripada fail dengan menggunakan tag <code>&lt;htmlet&gt;</code>",
+    "htmlets-filenotfound": "Fail HTML $1 tidak dapat dicari",
+    "htmlets-loadfailed": "Fail HTML $1 tidak dapat dimuatkan"
+}

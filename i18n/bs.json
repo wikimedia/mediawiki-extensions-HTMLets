@@ -1,0 +1,10 @@
+{
+    "@metadata": {
+        "authors": [
+            "CERminator"
+        ]
+    },
+    "htmlets-desc": "Dopunjava oznaku <code>&lt;htmlet&gt;</code> za ubacivanje HTML snippeta",
+    "htmlets-filenotfound": "Ne mogu pronaći HTML datoteku $1",
+    "htmlets-loadfailed": "Nije uspjelo učitavanje HTML datoteke $1"
+}

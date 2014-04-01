@@ -1,0 +1,10 @@
+{
+    "@metadata": {
+        "authors": [
+            "Pikne",
+            "Shirayuki"
+        ]
+    },
+    "htmlets-filenotfound": "HTML-faili $1 ei leitud.",
+    "htmlets-loadfailed": "HTML-faili $1 ei õnnestu laadida."
+}

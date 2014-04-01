@@ -1,0 +1,10 @@
+{
+    "@metadata": {
+        "authors": [
+            "Hydra"
+        ]
+    },
+    "htmlets-desc": "令您可以利用<code>&lt;htmlet&gt;</code>标签于文件中使用HTML插件",
+    "htmlets-filenotfound": "找不到$1的 HTML 文件",
+    "htmlets-loadfailed": "未能加载 HTML 文件 $1"
+}

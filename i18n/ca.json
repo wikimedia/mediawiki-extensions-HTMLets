@@ -1,0 +1,11 @@
+{
+    "@metadata": {
+        "authors": [
+            "Paucabot",
+            "Toniher"
+        ]
+    },
+    "htmlets-desc": "Permet inserir snippets HTML de fitxers usant l'etiqueta <code>&lt;htmlet&gt;</code>",
+    "htmlets-filenotfound": "No es pot trobar el fitxer HTML $1",
+    "htmlets-loadfailed": "No s'ha pogut carregar el fitxer HTML $1"
+}

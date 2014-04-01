@@ -1,0 +1,12 @@
+{
+    "@metadata": {
+        "authors": [
+            "Dianakc",
+            "Eduardo.mps",
+            "Giro720"
+        ]
+    },
+    "htmlets-desc": "Permite-lhe inserir blocos de HTML a partir de arquivos usando a marca <code>&lt;htmlet&gt;</code>",
+    "htmlets-filenotfound": "Não foi possível localizar o arquivo HTML $1",
+    "htmlets-loadfailed": "Erro ao enviar arquivo HTML $1"
+}

@@ -1,0 +1,11 @@
+{
+    "@metadata": {
+        "authors": [
+            "Kghbln",
+            "Raimond Spekking"
+        ]
+    },
+    "htmlets-desc": "Ergänzt das Tag <code>&lt;htmlet&gt;</code> zum Einfügen von HTML-Schnipseln",
+    "htmlets-filenotfound": "Die Datei $1 mit dem HTML-Code konnte nicht gefunden werden",
+    "htmlets-loadfailed": "Die Datei $1 mit dem HTML-Code konnte nicht geladen werden"
+}

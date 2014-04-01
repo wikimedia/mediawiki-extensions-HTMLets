@@ -1,0 +1,11 @@
+{
+    "@metadata": {
+        "authors": [
+            "EugeneZelenko",
+            "Wizardist"
+        ]
+    },
+    "htmlets-desc": "Дазваляе Вам выводзіць з файлаў фрагмэнты HTML з дапамогай тэга <code>&lt;htmlet&gt;</code>",
+    "htmlets-filenotfound": "Немагчыма знайсьці HTML-файл $1",
+    "htmlets-loadfailed": "Немагчыма загрузіць HTML-файл $1"
+}

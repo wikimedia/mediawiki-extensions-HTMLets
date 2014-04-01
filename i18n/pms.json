@@ -1,0 +1,11 @@
+{
+    "@metadata": {
+        "authors": [
+            "Borichèt",
+            "Dragonòt"
+        ]
+    },
+    "htmlets-desc": "At përmëtt d'anserì djë \"snippet\" HTML da file an dovrand ël tag <code>&lt;htmlet&gt;</code>",
+    "htmlets-filenotfound": "As peul pa trovesse l'archivi HTML $1",
+    "htmlets-loadfailed": "Falì a carié l'archivi HTML $1"
+}

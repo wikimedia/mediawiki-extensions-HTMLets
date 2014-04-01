@@ -1,0 +1,10 @@
+{
+    "@metadata": {
+        "authors": [
+            "Sp5uhe"
+        ]
+    },
+    "htmlets-desc": "Umożliwia włączanie kodu HTML z plików przy użyciu znacznika <code>&lt;htmlet&gt;</code>",
+    "htmlets-filenotfound": "Nie można odnaleźć pliku HTML $1",
+    "htmlets-loadfailed": "Nie można załadować pliku HTML $1"
+}
