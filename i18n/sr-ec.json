@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Михајло Анђелковић"
-        ]
-    },
-    "htmlets-desc": "Омогућава убацивање HTML делова из фајлова, коришћењем <code>&lt;htmlet&gt;</code> тага"
+	"@metadata": {
+		"authors": [
+			"Михајло Анђелковић"
+		]
+	},
+	"htmlets-desc": "Омогућава убацивање HTML делова из фајлова, коришћењем <code>&lt;htmlet&gt;</code> тага"
 }

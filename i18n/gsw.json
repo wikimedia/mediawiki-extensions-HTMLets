@@ -1,10 +1,10 @@
 {
-    "@metadata": {
-        "authors": [
-            "Als-Holder"
-        ]
-    },
-    "htmlets-desc": "Ergänzt s <code>&lt;htmlet&gt;</code>-Tag zum Yyfiege vu HTML-Schnipfel",
-    "htmlets-filenotfound": "D Datei $1 mit em HTML-Code isch nit gfunde wore",
-    "htmlets-loadfailed": "D Datei $1 mit em HTML-Code het nit chenne glade wäre"
+	"@metadata": {
+		"authors": [
+			"Als-Holder"
+		]
+	},
+	"htmlets-desc": "Ergänzt s <code>&lt;htmlet&gt;</code>-Tag zum Yyfiege vu HTML-Schnipfel",
+	"htmlets-filenotfound": "D Datei $1 mit em HTML-Code isch nit gfunde wore",
+	"htmlets-loadfailed": "D Datei $1 mit em HTML-Code het nit chenne glade wäre"
 }

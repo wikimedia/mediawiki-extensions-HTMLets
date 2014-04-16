@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Roustammr"
-        ]
-    },
-    "htmlets-filenotfound": "$1 HTML-файлын табып булманы"
+	"@metadata": {
+		"authors": [
+			"Roustammr"
+		]
+	},
+	"htmlets-filenotfound": "$1 HTML-файлын табып булманы"
 }

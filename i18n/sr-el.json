@@ -1,6 +1,4 @@
 {
-    "@metadata": {
-        "authors": []
-    },
-    "htmlets-desc": "Omogućava ubacivanje HTML delova iz fajlova, korišćenjem <code>&lt;htmlet&gt;</code> taga"
+	"@metadata": [],
+	"htmlets-desc": "Omogućava ubacivanje HTML delova iz fajlova, korišćenjem <code>&lt;htmlet&gt;</code> taga"
 }
