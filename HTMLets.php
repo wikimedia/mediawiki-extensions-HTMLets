@@ -132,9 +132,11 @@ function wfRenderHTMLet( $name, $argv, $parser ) {
 }
 
 function wfRenderHTMLetHackPostProcess( $parser, &$text ) {
-	$text = preg_replace(
-		'/<!-- @HTMLetsHACK@ ([0-9a-zA-Z\\+\\/]+=*) @HTMLetsHACK@ -->/esm',
-		'base64_decode("$1")',
+	$text = preg_replace_callback(
+		'/<!-- @HTMLetsHACK@ ([0-9a-zA-Z\\+\\/]+=*) @HTMLetsHACK@ -->/sm',
+		function ($m) {
+			return base64_decode("$m[1]");
+		},
 		$text
 	);
 
