@@ -3,10 +3,11 @@
 		"authors": [
 			"Purodha",
 			"Shirayuki",
-			"The Evil IP address"
+			"The Evil IP address",
+			"Umherirrender"
 		]
 	},
-	"htmlets-desc": "{{desc|name=HTMLets|url=http://www.mediawiki.org/wiki/Extension:HTMLets}}",
+	"htmlets-desc": "{{desc|name=HTMLets|url=https://www.mediawiki.org/wiki/Extension:HTMLets}}",
 	"htmlets-filenotfound": "Used as error message. Parameters:\n* $1 - HTMLet file name",
 	"htmlets-loadfailed": "Used as error message. Parameters:\n* $1 - HTMLet file name"
 }
