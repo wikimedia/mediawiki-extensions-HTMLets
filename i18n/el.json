@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Omnipaedista"
+			"Omnipaedista",
+			"Protnet"
 		]
 	},
-	"htmlets-desc": "Σας επιτρέπει να εισάγετε μέσα στη γραμμή αποσπάσματα κώδικα HTML από αρχεία χρησιμοποιώντας την ετικέτα  <code>&lt;htmlet&gt;</code>"
+	"htmlets-desc": "Σας επιτρέπει να εισάγετε ενδοκειμενικά αποσπάσματα κώδικα HTML από αρχεία χρησιμοποιώντας την ετικέτα <code>&lt;htmlet&gt;</code>"
 }
