@@ -1,4 +1,10 @@
 {
-	"@metadata": [],
-	"htmlets-desc": "令你可以用<code>&lt;htmlet&gt;</code>標籤響檔案度用HTML插件"
+	"@metadata": {
+		"authors": [
+			"Yueman"
+		]
+	},
+	"htmlets-desc": "令你可以用<code>&lt;htmlet&gt;</code>標籤響檔案度用HTML插件",
+	"htmlets-filenotfound": "搵唔到HTML檔案 $1",
+	"htmlets-loadfailed": "載入唔到HTML檔案 $1"
 }
