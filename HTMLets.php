@@ -91,11 +91,19 @@ function wfRenderHTMLet( $name, $argv, $parser ) {
 	$f = "$dir/$name";
 
 	if ( !preg_match('!^\w+://!', $dir ) && !file_exists( $f ) ) {
-		$output = Html::rawElement( 'div', array( 'class' => 'error' ), wfMsgForContent( 'htmlets-filenotfound', htmlspecialchars( $name ) ) );
+		$output = Html::rawElement(
+			'div',
+			array( 'class' => 'error' ),
+			wfMessage( 'htmlets-filenotfound', $name )->inContentLanguage()->escaped()
+		);
 	} else {
 		$output = file_get_contents( $f );
 		if ( $output === false ) {
-			$output = Html::rawElement( 'div', array( 'class' => 'error' ), wfMsgForContent( 'htmlets-loadfailed', htmlspecialchars( $name ) ) );
+			$output = Html::rawElement(
+				'div',
+				array( 'class' => 'error' ),
+				wfMessage( 'htmlets-loadfailed', $name )->inContentLanguage()->escaped()
+			);
 		}
 	}
 
