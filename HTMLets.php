@@ -23,12 +23,13 @@ $wgExtensionCredits['parserhook'][] = array(
 	'path'           => __FILE__,
 	'name'           => 'HTMLets',
 	'author'         => 'Daniel Kinzler',
-	'url'            => 'http://mediawiki.org/wiki/Extension:HTMLets',
+	'url'            => 'https://mediawiki.org/wiki/Extension:HTMLets',
 	'descriptionmsg' => 'htmlets-desc',
+	'license-name'   => 'GPL-2.0+'
 );
 
 $wgMessagesDirs['HTMLets'] = __DIR__ . '/i18n';
-$wgExtensionMessagesFiles['HTMLets'] =  dirname(__FILE__) . '/HTMLets.i18n.php';
+$wgExtensionMessagesFiles['HTMLets'] =  __DIR__ . '/HTMLets.i18n.php';
 
 /**
 * Pass file content unchanged. May get mangeled by late server pass.
