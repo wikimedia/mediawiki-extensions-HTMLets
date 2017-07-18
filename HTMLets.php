@@ -22,14 +22,17 @@ if( !defined( 'MEDIAWIKI' ) ) {
 $wgExtensionCredits['parserhook'][] = array(
 	'path'           => __FILE__,
 	'name'           => 'HTMLets',
-	'author'         => 'Daniel Kinzler',
+	'author'         => array(
+		'Daniel Kinzler',
+		'...'
+	),
 	'url'            => 'https://mediawiki.org/wiki/Extension:HTMLets',
 	'descriptionmsg' => 'htmlets-desc',
 	'license-name'   => 'GPL-2.0+'
 );
 
+/* Internationalization */
 $wgMessagesDirs['HTMLets'] = __DIR__ . '/i18n';
-$wgExtensionMessagesFiles['HTMLets'] =  __DIR__ . '/HTMLets.i18n.php';
 
 /**
 * Pass file content unchanged. May get mangeled by late server pass.
@@ -151,4 +154,3 @@ function wfRenderHTMLetHackPostProcess( $parser, &$text ) {
 
 	return true;
 }
-
