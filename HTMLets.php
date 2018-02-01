@@ -28,7 +28,7 @@ $wgExtensionCredits['parserhook'][] = array(
 	),
 	'url'            => 'https://mediawiki.org/wiki/Extension:HTMLets',
 	'descriptionmsg' => 'htmlets-desc',
-	'license-name'   => 'GPL-2.0+'
+	'license-name'   => 'GPL-2.0-or-later'
 );
 
 /* Internationalization */
