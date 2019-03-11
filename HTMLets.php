@@ -90,7 +90,7 @@ function wfRenderHTMLet( $name, $argv, $parser ) {
 	}
 
 	$name = preg_replace( '@[\\\\/!]|^\.+?&#@', '', $name ); #strip path separators and leading dots.
-	$name .= '.html'; #append html ending, for added security and conveniance
+	$name .= '.html'; #append html ending, for added security and convenience
 
 	$f = "$dir/$name";
 
