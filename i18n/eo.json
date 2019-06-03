@@ -1,8 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Yekrats"
+			"Yekrats",
+			"Mirin"
 		]
 	},
-	"htmlets-desc": "Permesas al vi enigi HTML-kodpecojn de dosieroj uzante la etikedon <code>&lt;htmlet&gt;</code>"
+	"htmlets-desc": "Permesas al vi enigi HTML-kodpecojn de dosieroj uzante la etikedon <code>&lt;htmlet&gt;</code>",
+	"htmlets-filenotfound": "HTML-dosiero $1 ne troviĝas",
+	"htmlets-loadfailed": "HTML-dosiero $1 ne povis ŝargiĝi"
 }
