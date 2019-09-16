@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Vlad5250"
+		]
+	},
+	"htmlets-desc": "Omogućava ubacivanje HTML snippeta (djelova koda) u samim tekstu od podataka koje koriste <code>&lt;htmlet&gt;</code> tag",
+	"htmlets-filenotfound": "Ne mogu pronaći HTML-datoteku $1",
+	"htmlets-loadfailed": "Nije uspjelo učitavanje HTML-datoteke $1"
+}
