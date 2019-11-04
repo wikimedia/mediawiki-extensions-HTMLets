@@ -69,7 +69,7 @@ function wfRenderHTMLet( $name, $argv, $parser ) {
 	global $wgHTMLetsDirectory, $wgHTMLetsHack, $IP;
 
 	if ( @$argv['nocache'] ) {
-		$parser->disableCache();
+		$parser->getOutput()->updateCacheExpiry( 0 );
 	}
 
 	#HACKs for bug 8997
