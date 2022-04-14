@@ -1,4 +1,5 @@
 {
+	"name": "HTMLets",
 	"private": true,
 	"scripts": {
 		"test": "grunt test"
