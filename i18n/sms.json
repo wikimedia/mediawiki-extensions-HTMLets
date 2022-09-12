@@ -4,5 +4,6 @@
 			"Yupik"
 		]
 	},
-	"htmlets-filenotfound": "HTML-teâttõs $1 ij käunnʼjam"
+	"htmlets-filenotfound": "HTML-teâttõs $1 ij käunnʼjam",
+	"htmlets-loadfailed": "HTML-teâttõõzz $1 laaddmõš ij oʹnnstam"
 }
