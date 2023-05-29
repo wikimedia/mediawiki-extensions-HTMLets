@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nokeoo"
+		]
+	},
+	"htmlets-filenotfound": "Nepavyko rasti HTML failo $1",
+	"htmlets-loadfailed": "Nepavyko įkelti HTML failo $1"
+}
