@@ -1,7 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
-			"Vlad5250"
+			"Winston Sung"
 		]
 	},
 	"htmlets-desc": "Omogućava ubacivanje HTML snippeta (djelova koda) u samim tekstu od podataka koje koriste <code>&lt;htmlet&gt;</code> tag",
