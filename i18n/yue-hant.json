@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Winston Sung"
+		]
+	},
+	"htmlets-desc": "令你可以用<code>&lt;htmlet&gt;</code>標籤響檔案度用HTML插件",
+	"htmlets-filenotfound": "搵唔到HTML檔案 $1",
+	"htmlets-loadfailed": "撈唔到HTML快勞 $1"
+}
