@@ -14,6 +14,8 @@
  * @license GNU General Public Licence 2.0 or later
  */
 
+use MediaWiki\Html\Html;
+
 if( !defined( 'MEDIAWIKI' ) ) {
 	echo( "This file is an extension to the MediaWiki software and cannot be used standalone.\n" );
 	die( 1 );
