@@ -2,10 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Bennylin",
-			"IvanLanin"
+			"IvanLanin",
+			"Penyuwangi"
 		]
 	},
-	"htmlets-desc": "Mengizinkan cukilan HTML inline dari berkas dengan menggunakan tag <code>&lt;htmlet&gt;</code>",
+	"htmlets-desc": "Mengizinkan cuplikan HTML sebaris dari berkas menggunakan tanda <code>&lt;htmlet&gt;</code>",
 	"htmlets-filenotfound": "Tidak dapat menemukan berkas HTML $1",
 	"htmlets-loadfailed": "Gagal memuat file HTML $1"
 }
