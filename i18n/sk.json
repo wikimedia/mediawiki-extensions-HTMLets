@@ -1,8 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Helix84"
+			"Helix84",
+			"Wizzard"
 		]
 	},
-	"htmlets-desc": "Umožňuje vkladať kúsky HTML kódu zo súborov pomocou značky <code>&lt;htmlet&gt;</code>"
+	"htmlets-desc": "Umožňuje vkladať kúsky HTML kódu zo súborov pomocou značky <code>&lt;htmlet&gt;</code>",
+	"htmlets-filenotfound": "Nepodarilo sa nájsť HTML súbor $1",
+	"htmlets-loadfailed": "Nepodarilo sa načítať HTML súbor $1"
 }
